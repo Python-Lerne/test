@@ -1,5 +1,6 @@
 print("Hallo! Dieses Programm weiß, welcher Job am besten zu Ihnen passt.")
 
+
 # Fragen
 fragen = [
     "Welche Schulabschlüsse braucht man?",
@@ -44,4 +45,5 @@ elif user_antworten == expected_answers[2]:
    # print (jobs[2])
    print ('Webdesigner')
 else:
+
     print ("Kein passender Job gefunden")
