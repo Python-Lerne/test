@@ -8,6 +8,7 @@ fragen = [
     "Wie viel verdient man?"
 ]
 
+
 # Antworten
 antworten = [
     ["1. Man braucht Realschulabschluss", "2. Man braucht dualen Abschluss", "3. Man braucht Ausbildung"],
@@ -47,3 +48,4 @@ elif user_antworten == expected_answers[2]:
 else:
 
     print ("Kein passender Job gefunden")
+
